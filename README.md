@@ -1,0 +1,2 @@
+# javascript-destructur
+Javascript Destructur
